@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/thomas/code/JomelleYarns/back-office/src'
+let g:netrw_dirhist_2='/home/thomas/code/JomelleYarns/back-end/api/newAdmin'
+let g:netrw_dirhist_1='/home/thomas/code/JomelleYarns/back-office/src'
